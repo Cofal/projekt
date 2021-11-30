@@ -5,3 +5,5 @@ naprawa bledu - hotFix-001
 Dodano asystenta
 Uproszczenie interfejsu
 >>>>>>> easierApp
+zmiana09
+zmiana
