@@ -7,3 +7,4 @@ Uproszczenie interfejsu
 >>>>>>> easierApp
 zmiana09
 zmiana
+zmiana10
