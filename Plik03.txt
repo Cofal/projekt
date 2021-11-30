@@ -11,3 +11,4 @@ zmiana10
 zmiana11
 zmiana13
 zmiana15
+zmiana16
