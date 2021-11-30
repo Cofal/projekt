@@ -8,3 +8,4 @@ Uproszczenie interfejsu
 zmiana09
 zmiana
 zmiana10
+zmiana11
